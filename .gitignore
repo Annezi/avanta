@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/.venv/
+venv/
+__pycache__/
+*.py[cod]
+.Python
+
+# Build / export
+frontend/out/
+frontend/.next/
+*.egg-info/
+dist/
+
+# Data & secrets (local backend)
+backend/data/
+backend/.env
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AvantaPrint">
+  <rect width="64" height="64" rx="14" fill="#111827"/>
+  <path d="M16 46L28 18h8l12 28h-8l-2-5H26l-2 5h-8zm13-11h6l-3-8-3 8z" fill="#ffffff"/>
+  <path d="M32 18l8 18h-6l-8-18h6z" fill="#FF0478"/>
+</svg>
